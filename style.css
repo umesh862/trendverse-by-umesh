@@ -87,7 +87,7 @@ a{color:inherit;text-decoration:none}
 .featured{display:grid;grid-template-columns:1.8fr 1fr;gap:26px;padding-bottom:45px}
 .featured-main .wide{height:390px;border-radius:15px}
 .featured h2{font:500 34px/1.05 "Playfair Display",serif;margin:10px 0}
-.featured p{color:var(--muted);font-size:12px;max-width:750px}
+.featured p{color:var(--muted);font-size:14px;max-width:750px}
 .read-more,.article-card>a{font-size:10px;font-weight:800;letter-spacing:1px;color:var(--accent)}
 .side-stories{display:grid;gap:22px}
 .side-card .media-placeholder{height:175px;border-radius:13px}
