@@ -16,7 +16,7 @@ a{color:inherit;text-decoration:none}
 .container{width:min(var(--max),calc(100% - 48px));margin-inline:auto}
 
 .site-header{
-  height:72px;
+  height:105px;
   border-bottom:1px solid var(--line);
   position:sticky;
   top:0;
@@ -214,7 +214,7 @@ a{color:inherit;text-decoration:none}
 
 /* Brand logo */
 .site-logo{display:block;object-fit:contain}
-.site-logo-header{width:118px;height:54px}
+.site-logo-header{width:128px;height:100px}
 .site-logo-footer{width:180px;height:95px;object-fit:contain;object-position:left center}
 .footer-logo{display:block}
 @media(max-width:700px){
