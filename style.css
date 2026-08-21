@@ -67,8 +67,8 @@ a{color:inherit;text-decoration:none}
 .brand small{display:block;font:600 7px "DM Sans",sans-serif;letter-spacing:2px;color:#6b7280}
 .brand-mark{width:29px;height:29px;border:2px solid var(--accent);border-radius:50%;display:grid;place-items:center;font:700 10px "DM Sans",sans-serif;color:var(--accent)}
 .nav a:hover{color:var(--accent)}
-.search-btn{border:0;background:none;font-size:25px;cursor:pointer;color:var(--ink)}
-.header-cta,.btn-primary{background:var(--accent);color:#fff;border-radius:22px;padding:10px 17px;font-size:12px;font-weight:700}
+.search-btn{border:0;background:none;font-size:38px;cursor:pointer;color:var(--ink)}
+.header-cta,.btn-primary{background:var(--accent);color:#fff;border-radius:22px;padding:10px 17px;font-size:14px;font-weight:700}
 .menu-toggle{display:none;border:0;background:none;font-size:24px}
 
 .hero{min-height:580px;display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:70px;padding-top:55px;padding-bottom:70px}
